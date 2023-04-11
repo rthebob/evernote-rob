@@ -1,3 +1,3 @@
-# React Todo App
-Written in Typescript
+# React Typescript Todo App
+
 https://evernote-rob.netlify.app/
